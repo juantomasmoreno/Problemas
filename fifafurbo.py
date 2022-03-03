@@ -1,2 +1,3 @@
 import streamlit as st
-st.write('FIFAFURBO!')
+st.title('FIFAFURBO!')
+st.write('Aquí descubrirás todo lo que el FIFA te puede ofrecer...')
